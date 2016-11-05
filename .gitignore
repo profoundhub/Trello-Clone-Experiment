@@ -23,7 +23,7 @@ $RECYCLE.BIN/
 /4me
 .privates
 node_modules
-
+/Readme
 yarn-error.log
 npm-debug.log
 
